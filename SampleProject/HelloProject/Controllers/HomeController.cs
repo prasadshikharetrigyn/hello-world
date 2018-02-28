@@ -25,7 +25,7 @@ namespace HelloProject.Controllers
             ViewBag.Message = "Yourcontact page.";
             ViewBag.Message = "Yourcontact page.";
             ViewBag.Message = "Yourcontact page.";
-
+            ViewBag.Message = "Yourcontact page.";
             return View();
         }
     }
