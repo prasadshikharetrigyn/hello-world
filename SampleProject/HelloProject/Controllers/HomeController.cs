@@ -22,7 +22,9 @@ namespace HelloProject.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Yourcontact page.";
+            ViewBag.Message = "Yourcontact page.";
+            ViewBag.Message = "Yourcontact page.";
 
             return View();
         }
