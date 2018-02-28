@@ -10,6 +10,8 @@ namespace HelloProject.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Message = "Yourcontact page.";
+            ViewBag.Message = "Yourcontact page.";
             return View();
         }
 
